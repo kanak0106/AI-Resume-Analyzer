@@ -1,0 +1,4 @@
+
+We are hiring a Python developer with experience in FastAPI, AWS, and PostgreSQL.
+Must be comfortable with Docker, CI/CD, and building REST APIs.
+Frontend experience with React or TypeScript is a plus.

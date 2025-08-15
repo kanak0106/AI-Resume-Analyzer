@@ -1,0 +1,16 @@
+
+KANAK SHARMA
+Email: kanak@example.com | GitHub: github.com/kanak
+
+SUMMARY
+Final-year CSE student with projects in React and Python. Built a finance tracker and a resume analyzer.
+
+SKILLS
+Python, JavaScript, React, Node, Flask, Streamlit, SQL, Git, HTML, CSS
+
+PROJECTS
+- Personal Finance Tracker: Built a full-stack app with CSV import and analytics
+- Resume Analyzer: Implemented TF-IDF scoring and keyword gap analysis
+
+EDUCATION
+B.Tech CSE, 2021-2025
